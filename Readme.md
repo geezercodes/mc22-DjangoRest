@@ -1,9 +1,9 @@
-Complete source code for [Django Rest Framework Tutorial](https://wsvincent.com/django-rest-framework-tutorial/) which implements basic CRUD functionality in a blog API.
+Complete source code for [Django Rest Framework Tutorial] which implements basic CRUD functionality in a blog API.
 
 ## Local Setup
 
 ```
-$ git clone  https://github.com/wsvincent/django-rest-framework-tutorial.git
+$ git clone  https://github.com/geezerP/mc22-DjangoRest.git
 $ cd django-rest-framework-tutorial
 $ pipenv install
 $ pipenv shell
