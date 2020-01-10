@@ -4,7 +4,7 @@ Complete source code for [Django Rest Framework Tutorial] which implements basic
 
 ```
 $ git clone  https://github.com/geezerP/mc22-DjangoRest.git
-$ cd django-rest-framework-tutorial
+$ cd mc22-DjangoRest
 $ pipenv install
 $ pipenv shell
 (api) $ ./manage.py runserver
